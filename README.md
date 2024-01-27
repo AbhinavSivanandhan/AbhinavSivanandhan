@@ -1,16 +1,31 @@
-### Hi there 👋
+# Yo, It's Abhinav! 👋
 
-<!--
-**AbhinavSivanandhan/AbhinavSivanandhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan, a tech enthusiast on a coding adventure. 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying M.S. Computer Science at NYU - Tandon School of Engineering (Class of '25).
+- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world solutions.
+- 💻 B.Tech in Computer Science & Engineering from VIT (Class of '21).
+
+## What I'm Up To
+
+- 🛠️ Always up for a coding challenge and tinkering with new tech. Let's build something cool!
+
+## Fun Projects
+
+- 🎨 Built a Social Media App for Artists using React and AWS magic.
+- 📅 Created a Hangout Event Planner with NodeJS, Express, and MongoDB.
+- 🤖 Predicting Mechanical Properties Using ML: Developed a web-app to predict stress and deformation using a Gradient Boosting Regression model with over 80% accuracy.
+  
+## Let's Collaborate
+
+- 👯‍♂️ If you're into AI, Web Development, Platform Engineering or just coding vibes, let's collaborate on something awesome.
+- 🤝 Open to discussions, new ideas, and hacking on fun side projects together.
+
+## Get in Touch
+
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/abhinav-sivanandhan/) for the formal stuff.
+
+Let's code! 🚀✨
+
