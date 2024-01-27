@@ -1,11 +1,11 @@
 # Yo, It's Abhinav! 👋
 
-Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan, a tech enthusiast on a coding adventure. 🚀
+Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan, a fellow tech enthusiast 🚀
 
 ## About Me
 
 - 🎓 Studying M.S. Computer Science at NYU - Tandon School of Engineering (Class of '25).
-- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world solutions.
+- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world problems.
 - 💻 B.Tech in Computer Science & Engineering from VIT (Class of '21).
 
 ## What I'm Up To
@@ -26,6 +26,4 @@ Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan,
 ## Get in Touch
 
 - 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/abhinav-sivanandhan/) for the formal stuff.
-
-Let's code! 🚀✨
 
