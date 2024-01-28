@@ -1,4 +1,4 @@
-# Yo, It's Abhinav! 👋
+# Yo, it's Abhinav! 👋
 
 Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan, a fellow tech enthusiast 🚀
 
