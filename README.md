@@ -5,7 +5,7 @@ Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan,
 ## About Me
 
 - 🎓 Studying M.S. Computer Science at NYU - Tandon School of Engineering (Class of '25).
-- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world problems.
+- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world problems. (CRM enterprise application development, automation & DevOps).
 - 💻 B.Tech in Computer Science & Engineering from VIT (Class of '21).
 
 ## What I'm Up To
