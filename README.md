@@ -14,7 +14,7 @@ Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan,
 
 ## Fun Projects
 
-- 🎨 Built a Social Media App for Artists using React and AWS magic.
+- 🎨 Built a Social Media App for Artists using React and AWS.
 - 📅 Created a Hangout Event Planner with NodeJS, Express, and MongoDB.
 - 🤖 Predicting Mechanical Properties Using ML: Developed a web-app to predict stress and deformation using a Gradient Boosting Regression model with over 80% accuracy.
   
