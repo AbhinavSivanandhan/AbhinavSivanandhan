@@ -1,6 +1,6 @@
 # Hello, it's Abhinav! 👋
 
-Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan, a fellow tech enthusiast 🚀
+Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer with a passion for innovation🚀
 
 ## About Me
 
@@ -10,7 +10,7 @@ Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan,
 
 ## What I'm Up To
 
-- 🛠️ Always up for a coding challenge and tinkering with new tech. Let's build something cool!
+- 🛠️ Always up for a challenge and solving real-world problems. Let's build something cool!
 
 ## Fun Projects
 
@@ -20,11 +20,11 @@ Hey fellow devs! Welcome to my little corner on GitHub. I'm Abhinav Sivanandhan,
   
 ## Let's Collaborate
 
-- 👯‍♂️ If you're into AI, Web Development, Platform Engineering or just coding vibes, let's collaborate on something awesome.
+- 👯‍♂️ If you're into AI, Web Development or Infrastructure Engineering, I'm your guy! 
 - 🤝 Open to discussions, new ideas, and hacking on fun side projects together.
 
 ## Get in Touch
 
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/abhinav-sivanandhan/) for the formal stuff.
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/abhinav-sivanandhan/)
 - Website: https://abhinavsivanandhan-portfolio.onrender.com/
 
