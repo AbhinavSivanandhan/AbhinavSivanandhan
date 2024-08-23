@@ -16,7 +16,7 @@ Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer 
 
 - **🎨 Social Media for Artists** *(React, AWS (Kinesis, Personalize, S3, Amplify, Cognito, DynamoDB))* — Developed a highly scalable microservices-based social media application that supports concurrent collaboration. *(Jan 2024)*
 
-- **📅 Culinary Compass** *(Next.js, Django, PostgreSQL)* — Created a recipe recommendation app leveraging content-based and collaborative filtering techniques. *(Apr 2024)*
+- **🍕 Culinary Compass** *(Next.js, Django, PostgreSQL)* — Created a recipe recommendation app leveraging content-based and collaborative filtering techniques. *(Apr 2024)*
 
 - **🛒 E-commerce Application** *(NodeJS, ReactJS, TailwindCSS, PostgreSQL, Stripe, AWS EC2)* — Developed a full-fledged e-commerce platform with secure payment integration via Stripe. *(May 2024 - Jul 2024)*
 
