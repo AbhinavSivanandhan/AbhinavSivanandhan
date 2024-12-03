@@ -20,8 +20,6 @@ Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer 
 
 - **🛒 E-commerce Application** *(NodeJS, ReactJS, TailwindCSS, PostgreSQL, Stripe, AWS EC2)* — Developed a full-fledged e-commerce platform with secure payment integration via Stripe. *(May 2024 - Jul 2024)*
 
-- **👨‍💻 Open Source Contributions** *(PrairieLearn - Python, TypeScript, Mustache)* — Contributed to an online educational test-taking platform, enhancing code quality and adding new features. *(Jul 2024)*
-
 - **📸 Deep Learning Image Classification App** *(ResNet50, MobileNetV2, Docker, Kubernetes, Chameleon)* — Built and deployed an image classification app using advanced deep learning models and cloud infrastructure. *(Mar 2024)*
 
 - **🤝 Hangout Event Planner** *(MERN Stack, Google Calendar, Heroku)* — Created a suite of RESTful APIs to facilitate interactive event planning and management. *(May 2023 - Jun 2023)*
