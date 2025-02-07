@@ -46,6 +46,8 @@ Contributed to an online educational test-taking platform by enhancing frontend 
 
 ## Get in Touch
 
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/abhinav-sivanandhan/)
-- Website: https://abhinavsivanandhan-portfolio.onrender.com/
+- 🌐 **Portfolio:** [My Portfolio](https://shorturl.at/Aqz9k)  
+- 💼 **LinkedIn:** [linkedin.com/in/abhinav-sivanandhan](https://www.linkedin.com/in/abhinav-sivanandhan/)  
+- 🖥️ **GitHub:** [github.com/AbhinavSivanandhan](https://github.com/AbhinavSivanandhan)
+
 
