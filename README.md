@@ -1,28 +1,43 @@
 # Hello, it's Abhinav! 👋
 
-Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer with a passion for innovation🚀
+Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer passionate about solving complex challenges with innovative solutions. 🚀
 
 ## About Me
 
-- 🎓 Studying M.S. Computer Science at NYU - Tandon School of Engineering (Class of '25).
-- 🧑‍💻 Most recently wore the hat of an IT System Analyst at Stryker, where I got my hands dirty on some real-world problems. (CRM enterprise application development, automation & DevOps).
+- 🎓 Studying M.S. Computer Science at New York University (Class of '25).
+- 🧑‍💻 Former **Software Engineer at Stryker**, where I developed enterprise applications, automated workflows, and led DevOps initiatives.
 - 💻 B.Tech in Computer Science & Engineering from VIT (Class of '21).
 
-## What I'm Up To
+## What I'm Working On
 
-- 🛠️ Always up for a challenge and solving real-world problems. Let's build something cool!
+- 🛠️ Constantly tackling real-world problems through scalable applications and AI-driven solutions.
+- 🌍 Designing distributed systems using AI and optimal web development architectures.
 
-## Fun Projects
+## Highlighted Projects
 
-- **🎨 Social Media for Artists** *(React, AWS (Kinesis, Personalize, S3, Amplify, Cognito, DynamoDB))* — Developed a highly scalable microservices-based social media application that supports concurrent collaboration. *(Jan 2024)*
+🎨 Social Media Platform for Artists
+(React, AWS Kinesis, DynamoDB, Amplify, Cognito)
+Developed a scalable, GraphQL-based microservices platform for artists with real-time collaboration features and a personalized recommendation engine. Integrated AWS services to ensure high performance and scalability. (Jan 2024)
 
-- **🍕 Culinary Compass** *(Next.js, Django, PostgreSQL)* — Created a recipe recommendation app leveraging content-based and collaborative filtering techniques. *(Apr 2024)*
+🍕 Culinary Compass
+(Next.js, Django, PostgreSQL)
+Created a RESTful recipe recommendation system that leverages both content-based and collaborative filtering to deliver personalized suggestions. Built with a Next.js frontend and a Django backend. (Apr 2024)
 
-- **🛒 E-commerce Application** *(NodeJS, ReactJS, TailwindCSS, PostgreSQL, Stripe, AWS EC2)* — Developed a full-fledged e-commerce platform with secure payment integration via Stripe. *(May 2024 - Jul 2024)*
+🛒 E-commerce Platform with Priority Queuing
+(Node.js, React, TailwindCSS, Redis, Stripe, AWS EC2)
+Designed and deployed a scalable e-commerce platform with secure Stripe payment integration, priority-based queuing with RabbitMQ, and geolocation services via GCP. Optimized for cloud infrastructure on AWS EC2. (Aug 2024)
 
-- **📸 Deep Learning Image Classification App** *(ResNet50, MobileNetV2, Docker, Kubernetes, Chameleon)* — Built and deployed an image classification app using advanced deep learning models and cloud infrastructure. *(Mar 2024)*
+📸 Deep Learning Image Classification App
+(ResNet50, MobileNetV2, Flask, Kubernetes)
+Built and deployed an image classification application using deep learning models. Utilized Kubernetes for container orchestration and dynamic scaling, achieving 99.68% availability and high performance with 28.54 transactions/sec. (Mar 2024)
 
-- **🤝 Hangout Event Planner** *(MERN Stack, Google Calendar, Heroku)* — Created a suite of RESTful APIs to facilitate interactive event planning and management. *(May 2023 - Jun 2023)*
+🤝 Hangout Event Planner
+(MERN Stack, Google Calendar)
+Developed an interactive event planning and scheduling app with a RESTful API suite. Integrated Google Calendar to streamline event organization and scheduling workflows. (May 2023)
+
+🌱 Open Source Contributions - PrairieLearn
+(Python, TypeScript, Mustache)
+Contributed to an online educational test-taking platform by enhancing frontend UI, improving automated testing, and refining code quality. Added new features and optimized performance for a better user experience. (Jul 2024)
 
 ## Let's Collaborate
 
