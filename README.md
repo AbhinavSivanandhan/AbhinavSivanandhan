@@ -27,6 +27,10 @@ Created a RESTful recipe recommendation system that leverages both content-based
 (Node.js, React, TailwindCSS, Redis, Stripe, AWS EC2)
 Designed and deployed a scalable e-commerce platform with secure Stripe payment integration, priority-based queuing with RabbitMQ, and geolocation services via GCP. Optimized for cloud infrastructure on AWS EC2. (Aug 2024)
 
+📊 FDA Drug Reaction Analysis
+(Dask, Spark, PyArrow, Parquet)
+Conducted large-scale analysis of adverse drug events using big data techniques. Developed a high-performance pipeline for handling 500GB+ of nested JSON data, enabling fast querying and exploratory insights. (Dec 2024)
+
 📸 Deep Learning Image Classification App
 (ResNet50, MobileNetV2, Flask, Kubernetes)
 Built and deployed an image classification application using deep learning models. Utilized Kubernetes for container orchestration and dynamic scaling, achieving 99.68% availability and high performance with 28.54 transactions/sec. (Mar 2024)
