@@ -22,26 +22,32 @@ Developed and deployed a scalable, event-driven e-commerce platform with a micro
 
 🎨 Social Media Platform for Artists
 (React, AWS Kinesis, DynamoDB, Amplify, Cognito)
+
 Developed a scalable, GraphQL-based microservices platform for artists with real-time collaboration features and a personalized recommendation engine. Integrated AWS services to ensure high performance and scalability. 
 
 📊 FDA Drug Reaction Analysis
 (Dask, Spark, DuckDB, PyArrow, Parquet)
+
 Designed and implemented a high-performance pipeline to process and analyze 500GB+ of highly nested JSON data related to adverse drug events. Leveraged Dask and PyArrow to efficiently flatten and convert the data into a distributed Parquet-based relational format, enabling fast querying and scalable exploratory analysis. Utilized Spark for parallel processing and optimized big data workflows.
 
 📸 Deep Learning Image Classification App
 (ResNet50, MobileNetV2, Flask, Kubernetes)
+
 Built and deployed an image classification application using deep learning models. Utilized Kubernetes for container orchestration and dynamic scaling, achieving 99.68% availability and high performance with 28.54 transactions/sec. 
 
 🍕 Culinary Compass
 (Next.js, Django, PostgreSQL)
+
 Created a RESTful recipe recommendation system that leverages both content-based and collaborative filtering to deliver personalized suggestions. Built with a Next.js frontend and a Django backend. 
 
 🌱 Open Source Contributions - PrairieLearn
 (Python, TypeScript, Mustache)
+
 Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with intuitive frontend features and UI improvements using Python, TypeScript, and Mustache using test-driven-development.
 
 🤝 Hangout Event Planner
 (MERN Stack, Google Calendar)
+
 Developed an interactive event planning and scheduling app with a RESTful API suite. Integrated Google Calendar to streamline event organization and scheduling workflows. 
 
 ## Let's Collaborate
