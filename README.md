@@ -10,38 +10,40 @@ Hey fellow devs! Glad you're here. I'm Abhinav Sivanandhan, a software engineer 
 
 ## What I'm Working On
 
-- 🛠️ Constantly tackling real-world problems through scalable applications and AI-driven solutions.
-- 🌍 Designing distributed systems using AI and optimal web development architectures.
+- 🛠️ Constantly tackling real-world problems through scalable design.
+- 🌍 Building cloud-based distributed systems leveraging AI and modern web architectures.
 
 ## Highlighted Projects
+
+🛒 LLM-Powered Digital Marketplace with Priority-Based Checkout Queue
+(Node.js, React, Next.js, TailwindCSS, Redis, RabbitMQ, PostgreSQL, S3, GCP, AWS EC2, Stripe, LangChain.js, Datastax, OpenAI, Winston, Node-cron, Nodemailer)
+
+Developed and deployed a scalable, event-driven e-commerce platform with a microservices-based architecture, leveraging asynchronous processing and Redis caching for high performance. Implemented secure, stateless authentication using JWT and bcryptjs, along with rate limiting and S3 asset management via pre-signed URLs with upload quotas. Designed automated background workers using Node-cron for scheduled tasks and message queue consumers for order processing using RabbitMQ. Enabled transactional email notifications with Nodemailer. Enhanced product retrieval with an LLM-powered RAG chatbot built using Next.js, LangChain.js, Datastax, and OpenAI. Ensured scalability and observability with Winston logging and deployed to AWS EC2.
 
 🎨 Social Media Platform for Artists
 (React, AWS Kinesis, DynamoDB, Amplify, Cognito)
 Developed a scalable, GraphQL-based microservices platform for artists with real-time collaboration features and a personalized recommendation engine. Integrated AWS services to ensure high performance and scalability. 
 
-🍕 Culinary Compass
-(Next.js, Django, PostgreSQL)
-Created a RESTful recipe recommendation system that leverages both content-based and collaborative filtering to deliver personalized suggestions. Built with a Next.js frontend and a Django backend. 
-
-🛒 E-commerce Platform with Priority Queuing
-(Node.js, React, TailwindCSS, Redis, Stripe, AWS EC2)
-Designed and deployed a scalable e-commerce platform with secure Stripe payment integration, priority-based queuing with RabbitMQ, and geolocation services via GCP. Optimized for cloud infrastructure on AWS EC2. 
-
 📊 FDA Drug Reaction Analysis
-(Dask, Spark, PyArrow, Parquet)
-Conducted large-scale analysis of adverse drug events using big data techniques. Developed a high-performance pipeline for handling 500GB+ of nested JSON data, enabling fast querying and exploratory insights. 
+(Dask, Spark, DuckDB, PyArrow, Parquet)
+Designed and implemented a high-performance pipeline to process and analyze 500GB+ of highly nested JSON data related to adverse drug events. Leveraged Dask and PyArrow to efficiently flatten and convert the data into a distributed Parquet-based relational format, enabling fast querying and scalable exploratory analysis. Utilized Spark for parallel processing and optimized big data workflows.
 
 📸 Deep Learning Image Classification App
 (ResNet50, MobileNetV2, Flask, Kubernetes)
 Built and deployed an image classification application using deep learning models. Utilized Kubernetes for container orchestration and dynamic scaling, achieving 99.68% availability and high performance with 28.54 transactions/sec. 
 
-🤝 Hangout Event Planner
-(MERN Stack, Google Calendar)
-Developed an interactive event planning and scheduling app with a RESTful API suite. Integrated Google Calendar to streamline event organization and scheduling workflows. 
+🍕 Culinary Compass
+(Next.js, Django, PostgreSQL)
+Created a RESTful recipe recommendation system that leverages both content-based and collaborative filtering to deliver personalized suggestions. Built with a Next.js frontend and a Django backend. 
 
 🌱 Open Source Contributions - PrairieLearn
 (Python, TypeScript, Mustache)
 Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with intuitive frontend features and UI improvements using Python, TypeScript, and Mustache using test-driven-development.
+
+🤝 Hangout Event Planner
+(MERN Stack, Google Calendar)
+Developed an interactive event planning and scheduling app with a RESTful API suite. Integrated Google Calendar to streamline event organization and scheduling workflows. 
+
 ## Let's Collaborate
 
 - 👯‍♂️ If you're into AI, Web Development or Infrastructure Engineering, I'm your guy! 
