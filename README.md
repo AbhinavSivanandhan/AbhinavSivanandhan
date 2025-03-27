@@ -28,7 +28,7 @@ Developed a scalable, GraphQL-based microservices platform for artists with real
 ### 📊 FDA Drug Reaction Analysis  
 *(Dask, Spark, DuckDB, PyArrow, Parquet)*  
 
-Designed and implemented a high-performance pipeline to process and analyze **500GB+** of highly nested JSON data related to adverse drug events. Leveraged **Dask** and **PyArrow** to efficiently flatten and convert the data into a **distributed Parquet-based relational format**, enabling fast querying and scalable exploratory analysis. Utilized **Spark** for parallel processing and optimized big data workflows.  
+Designed and implemented a high-performance big-data ETL pipeline to process and analyze **500GB+** of highly nested JSON data related to adverse drug events. Leveraged **Dask** and **PyArrow** to efficiently flatten and convert the data into a **distributed Parquet-based relational format**, enabling fast querying and scalable exploratory analysis. Utilized **Spark** for parallel processing and optimized big data workflows.  
 
 ### 📸 Deep Learning Image Classification App  
 *(ResNet50, MobileNetV2, Flask, Kubernetes)*  
