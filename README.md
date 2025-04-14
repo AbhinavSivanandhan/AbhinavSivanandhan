@@ -59,4 +59,10 @@ Developed an interactive **event planning and scheduling app** with a **RESTful 
 
 - 🌐 **Portfolio:** [My Portfolio](https://shorturl.at/Aqz9k)  
 - 💼 **LinkedIn:** [linkedin.com/in/abhinav-sivanandhan](https://www.linkedin.com/in/abhinav-sivanandhan/)  
-- 🖥️ **GitHub:** [github.com/AbhinavSivanandhan](https://github.com/AbhinavSivanandhan) :)  
+- 🖥️ **GitHub:** [github.com/AbhinavSivanandhan](https://github.com/AbhinavSivanandhan) :)
+
+### 📊 GitHub Stats
+
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavSivanandhan&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavSivanandhan&layout=compact&theme=tokyonight)
