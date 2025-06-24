@@ -62,6 +62,6 @@ Developed an interactive **event planning and scheduling app** with a **RESTful 
 
 ## Get in Touch
 
-- 🌐 **Portfolio:** [My Portfolio](https://shorturl.at/Aqz9k)  
+- 🌐 **Portfolio:** [My Portfolio](https://abhinavsivanandhan-portfolio.onrender.com/)  
 - 💼 **LinkedIn:** [linkedin.com/in/abhinav-sivanandhan](https://www.linkedin.com/in/abhinav-sivanandhan/)  
 - 🖥️ **GitHub:** [github.com/AbhinavSivanandhan](https://github.com/AbhinavSivanandhan) :)
