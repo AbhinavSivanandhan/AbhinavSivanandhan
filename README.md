@@ -45,10 +45,15 @@ Built and deployed an image classification application using deep learning model
 
 Created a RESTful recipe recommendation system that leverages both **content-based and collaborative filtering** to deliver personalized suggestions. Built with a **Next.js frontend** and a **Django backend**.  
 
-### 🌱 Open Source Contributions - PrairieLearn  
-*(Python, TypeScript, Mustache)*  
+### 🌱 Open Source Contributions  
 
-Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with **intuitive frontend features** and UI improvements using **Python, TypeScript, and Mustache**, applying **test-driven development (TDD)**.  
+I enjoy contributing to the open-source ecosystem, especially on projects that impact developers, researchers, and students. Some highlights include:  
+
+- **[PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)** – Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with intuitive frontend features and UI improvements using **Python, TypeScript, and Mustache**, applying **test-driven development (TDD)**.  
+
+- **[ModelEarth Cloud](https://github.com/ModelEarth/cloud)** – Built a Flask-based Jupyter execution service on **Google Cloud Run** with a **RESTful API**, **GitHub webhook triggers**, secure token handling, and fully automated **CI/CD pipelines**.  
+
+- **[ModelEarth Team](https://github.com/ModelEarth/team)** – Developed and extended a **Rust-based API** deployed on **Google Cloud Run (GCR)** with **GitHub OIDC authentication**. Designed and implemented CI/CD pipelines using **Cloud Build + Artifact Registry**, integrated **Azure Postgres** and external **AI services** via REST endpoints, and set up robust secret management.  
 
 ### 🤝 Hangout Event Planner  
 *(MERN Stack, Google Calendar)*  
