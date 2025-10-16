@@ -49,7 +49,7 @@ Created a RESTful recipe recommendation system that leverages both **content-bas
 
 I enjoy contributing to the open-source ecosystem, especially on projects that impact developers, researchers, and students. Some highlights include:  
 
-- **[PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)** – Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with intuitive frontend features and UI improvements using **Python, TypeScript, and Mustache**, applying **test-driven development (TDD)**.  
+- **[PrairieLearn](https://github.com/PrairieLearn/PrairieLearn)** – Enhanced the online test-taking platform (widely adopted by multiple top universities including NYU) with intuitive frontend features and UI improvements using **Python, TypeScript, and Mustache**.  
 
 - **[ModelEarth Cloud](https://github.com/ModelEarth/cloud)** – Built a Flask-based Jupyter execution service on **Google Cloud Run** with a **RESTful API**, **GitHub webhook triggers**, secure token handling, and fully automated **CI/CD pipelines**.  
 
